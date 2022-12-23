@@ -1,2 +1,3 @@
-# Hello! I am Shireen Khan.
-# Software Engineer
+
+👋Hello! I am Shireen Khan.
+ :computer: Software Engineer
