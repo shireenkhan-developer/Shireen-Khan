@@ -1,3 +1,3 @@
 
-👋Hello! I am Shireen Khan.
-#:computer: Software Engineer
+👋Hello! I am Shireen Khan. <br>
+:computer: Software Engineer
